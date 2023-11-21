@@ -10,4 +10,4 @@ description: Saturn Network ist dein Discord Server Netzwerk
 
 
 
-fjfj :tada:
+furz :tada:
