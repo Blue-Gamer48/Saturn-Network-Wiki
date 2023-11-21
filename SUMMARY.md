@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Saturn Network](README.md)
+* [Saturnbot](README.md)

@@ -1,13 +1,6 @@
 ---
-description: Saturn Network ist dein Discord Server Netzwerk
+description: Dein Bot zur Verbesserung deines Servers
 ---
 
-# Saturn Network
+# Saturnbot
 
-
-
-
-
-
-
-furz :tada:
